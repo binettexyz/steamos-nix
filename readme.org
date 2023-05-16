@@ -1,0 +1,4 @@
+* SteamOS Nix
+  This script will automaticaly install the Nix package manager on the system which won't be affected by system updates.
+
+  The content of this script come from this blog: [[https://hoverbear.org/blog/nix-on-the-steam-deck/][nix-on-steam-deck]]
